@@ -44,7 +44,6 @@ class _ProductDetailScreenState extends State<ProductDetailScreen> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
-            // Image that takes half the screen
             Container(
               height: MediaQuery.of(context).size.height / 2,
               decoration: BoxDecoration(
@@ -53,7 +52,7 @@ class _ProductDetailScreenState extends State<ProductDetailScreen> {
                 ),
                 image: DecorationImage(
                   image: AssetImage(
-                      product.image), // use AssetImage instead of Image.asset
+                      product.image),
                   fit: BoxFit.cover,
                 ),
               ),
