@@ -73,7 +73,7 @@ Overall, My Anime App provides a comprehensive and user-friendly experience for 
 
 <hr>
 
-<h1 align="center">Demo</h1>
+<h1 align="center">Full Demo</h1>
 
 
 
