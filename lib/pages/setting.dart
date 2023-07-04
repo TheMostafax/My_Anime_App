@@ -176,7 +176,7 @@ class _SettingsPageState extends State<SettingsPage> {
                 ),
                 trailing: Icon(Icons.arrow_forward_ios),
                 onTap: () {
-                  // navigate to FAQs page
+                 
                 },
               ),
             ),
@@ -203,7 +203,7 @@ class _SettingsPageState extends State<SettingsPage> {
                 ),
                 trailing: Icon(Icons.arrow_forward_ios),
                 onTap: () {
-                  // navigate to Contact Us page
+                  
                 },
               ),
             ),
@@ -230,7 +230,7 @@ class _SettingsPageState extends State<SettingsPage> {
                 ),
                 trailing: Icon(Icons.arrow_forward_ios),
                 onTap: () {
-                  // navigate to Terms of Service page
+                  
                 },
               ),
             ),
@@ -257,7 +257,7 @@ class _SettingsPageState extends State<SettingsPage> {
                 ),
                 trailing: Icon(Icons.arrow_forward_ios),
                 onTap: () {
-                  // navigate to Privacy Policy page
+                  
                 },
               ),
             ),
@@ -293,7 +293,7 @@ class _SettingsPageState extends State<SettingsPage> {
                 ),
                 trailing: Icon(Icons.arrow_forward_ios),
                 onTap: () {
-                  // navigate to Report a Problem page
+                  
                 },
               ),
             ),
@@ -320,7 +320,7 @@ class _SettingsPageState extends State<SettingsPage> {
                 ),
                 trailing: Icon(Icons.arrow_forward_ios),
                 onTap: () {
-                  // navigate to Provide Feedback page
+                  
                 },
               ),
             ),
