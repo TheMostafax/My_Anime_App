@@ -201,3 +201,11 @@ In the command terminal, run the following commands:
 <hr>
 <h1 align="center">Languages and Tools that used in this project</h1>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+
+<p align="center">
+  
+
+![app](https://github.com/TheMostafax/My_Anime_App/assets/81190585/db9c52e4-89c3-439c-84e2-5100219fa8bf)
+
+
+</p>
