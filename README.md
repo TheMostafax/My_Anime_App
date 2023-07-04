@@ -178,6 +178,24 @@ https://github.com/TheMostafax/My_Anime_App/assets/81190585/b1b5c1c5-928d-4641-a
 
 <hr>
 
+<h3 align="center">Settings page</h3>
+
+
+![settings](https://github.com/TheMostafax/My_Anime_App/assets/81190585/f3a72188-c7ec-4c27-b0a1-ac9889d5e50d)
+
+
+
+<hr>
+
+<h3 align="center">Help page</h3>
+
+
+![help page](https://github.com/TheMostafax/My_Anime_App/assets/81190585/8ee79e3d-73cd-4dd4-a9c6-f299b5c5c408)
+
+
+<hr>
+
+
 <h3 align="center">Device Preview: iPhone 12 mini </h3>
 
 
