@@ -77,7 +77,11 @@ Overall, My Anime App provides a comprehensive and user-friendly experience for 
 
 
 
-https://github.com/TheMostafax/My_Fashion_App/assets/81190585/426679f1-0262-46c2-9718-9ad4956b8de0
+
+
+https://github.com/TheMostafax/My_Anime_App/assets/81190585/603c4447-c9cd-4f77-b975-28bd228a411a
+
+
 
 
 
@@ -87,10 +91,18 @@ https://github.com/TheMostafax/My_Fashion_App/assets/81190585/426679f1-0262-46c2
 <h1 align="center">The GUI</h1>
 
 
-<h3 align="center">First screen</h3>
+<h3 align="center">Onboarding screen</h3>
+
+![onboardscreen](https://github.com/TheMostafax/My_Anime_App/assets/81190585/7867e6f1-ea45-421d-8f13-9f0a18f1ede9)
 
 
-![first screen](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/16ed0799-72ed-4936-9a2a-13f41102ba91)
+<hr>
+
+<h3 align="center">Launch screen</h3>
+
+
+![Launch Screen](https://github.com/TheMostafax/My_Anime_App/assets/81190585/24640e8c-d508-4926-ac90-dd07167b5a55)
+
 
 
 
@@ -99,7 +111,7 @@ https://github.com/TheMostafax/My_Fashion_App/assets/81190585/426679f1-0262-46c2
 <h3 align="center">Home page</h3>
 
 
-![home page](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/ace4ab44-9d82-4cce-b8e9-a451ff61bf51)
+![home screen page](https://github.com/TheMostafax/My_Anime_App/assets/81190585/fb6bd171-387c-4d25-b2fe-087cc630361b)
 
 
 
@@ -108,7 +120,8 @@ https://github.com/TheMostafax/My_Fashion_App/assets/81190585/426679f1-0262-46c2
 <h3 align="center">Login page</h3>
 
 
-![login page](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/90eddb6a-fec1-4253-98ef-59abc8b9750d)
+![login page](https://github.com/TheMostafax/My_Anime_App/assets/81190585/f9abd75b-2218-47d0-bc13-75417485eb58)
+
 
 
 
@@ -116,25 +129,27 @@ https://github.com/TheMostafax/My_Fashion_App/assets/81190585/426679f1-0262-46c2
 
 <h3 align="center">Sign Up page</h3>
 
-![signup](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/7d4deed0-c72b-4ad3-9792-b8249bd8c4ce)
+
+![sign up page](https://github.com/TheMostafax/My_Anime_App/assets/81190585/11530a92-475f-4a10-b84e-28ea2ef53bf6)
 
 
 
 <hr>
 
 
-<h3 align="center">All products page</h3>
+<h3 align="center">All animes page</h3>
 
 
-![all products page](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/3233af47-b88c-411f-abb3-b706b6bf8e19)
+![all animes page](https://github.com/TheMostafax/My_Anime_App/assets/81190585/9fc2b3f5-087f-417c-8d27-6e93c4b80f22)
 
 
 <hr>
 
-<h3 align="center">Details products page</h3>
+<h3 align="center">anime details page</h3>
 
 
-![product details page](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/1af2aa45-ce49-419c-b8bf-9b72d34c01b4)
+![anime details page](https://github.com/TheMostafax/My_Anime_App/assets/81190585/e9f6294d-77aa-41e3-a3a6-a55301f5db5b)
+
 
 
 <hr>
@@ -142,8 +157,16 @@ https://github.com/TheMostafax/My_Fashion_App/assets/81190585/426679f1-0262-46c2
 <h3 align="center">About Us page</h3>
 
 
-![about us](https://github.com/TheMostafax/My_Fashion_App/assets/81190585/d0ec30b1-7b67-4098-ac53-a5f45b79e0f1)
+![about page](https://github.com/TheMostafax/My_Anime_App/assets/81190585/cc256615-f345-43ad-9035-4bc608f0e7da)
 
+
+
+<hr>
+
+<h3 align="center">Drawer</h3>
+
+
+![Drawer](https://github.com/TheMostafax/My_Anime_App/assets/81190585/d68542cb-2094-4b06-9e35-73e409a09a4b)
 
 <hr>
 
@@ -155,9 +178,8 @@ https://github.com/TheMostafax/My_Fashion_App/assets/81190585/426679f1-0262-46c2
 
 <h1 align="center" style="color:red;">Notes</h1>
 <h4 align="left">1. The app is still in the development phase and is not yet finished.</h4>
-<h4 align="left">2. I am currently working on improving the cart mechanism to ensure a seamless checkout process for users.</h4>
-<h4 align="left">3. The search engine is also being improved to provide better search results and filtering options for users.</h4>
-<h4 align="left">4. The app will be connected to the user's Firebase account to provide secure login and account management features..</h4>
+<h4 align="left">2. Currently, I am focusing on improving the categories and favorite mechanism of the app to provide a more seamless and user-friendly experience for our users. By optimizing these features, we aim to make it easier for users to find and save their favorite anime shows, and to streamline the checkout process for any premium content. Our goal is to ensure that users can enjoy their anime watching experience with as little friction as possible.</h4>
+<h4 align="left">3. The app will be connected to the user's Firebase account to provide secure login and account management features..</h4>
 
 <hr>
 
