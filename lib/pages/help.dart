@@ -18,7 +18,7 @@ class HelpPage extends StatelessWidget {
             ),
             trailing: Icon(Icons.arrow_forward_ios, color: Colors.white),
             onTap: () {
-              // navigate to FAQs page
+              
             },
           ),
           ListTile(
@@ -28,7 +28,7 @@ class HelpPage extends StatelessWidget {
             ),
             trailing: Icon(Icons.arrow_forward_ios, color: Colors.white),
             onTap: () {
-              // navigate to Contact Us page
+              
             },
           ),
           ListTile(
@@ -38,7 +38,7 @@ class HelpPage extends StatelessWidget {
             ),
             trailing: Icon(Icons.arrow_forward_ios, color: Colors.white),
             onTap: () {
-              // navigate to Terms of Service page
+             
             },
           ),
           ListTile(
@@ -48,7 +48,7 @@ class HelpPage extends StatelessWidget {
             ),
             trailing: Icon(Icons.arrow_forward_ios, color: Colors.white),
             onTap: () {
-              // navigate to Privacy Policy page
+              
             },
           ),
           Divider(
@@ -65,7 +65,7 @@ class HelpPage extends StatelessWidget {
             ),
             trailing: Icon(Icons.arrow_forward_ios, color: Colors.white),
             onTap: () {
-              // navigate to Report a Problem page
+              
             },
           ),
           ListTile(
@@ -75,7 +75,7 @@ class HelpPage extends StatelessWidget {
             ),
             trailing: Icon(Icons.arrow_forward_ios, color: Colors.white),
             onTap: () {
-              // navigate to Provide Feedback page
+              
             },
           ),
         ],
