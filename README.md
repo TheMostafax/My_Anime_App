@@ -74,12 +74,20 @@ Overall, My Anime App provides a comprehensive and user-friendly experience for 
 <hr>
 
 <h1 align="center">Full Demo</h1>
+<p align="center">
+  
+
+
+https://github.com/TheMostafax/My_Anime_App/assets/81190585/b1b5c1c5-928d-4641-aa37-34bfa4235005
 
 
 
 
+</p>
 
-https://github.com/TheMostafax/My_Anime_App/assets/81190585/603c4447-c9cd-4f77-b975-28bd228a411a
+
+
+
 
 
 
