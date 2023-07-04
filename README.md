@@ -8,7 +8,7 @@
 
 <h1 align="center">Project Description </h1>
 
-My Anime App is a mobile application developed using Flutter! My Anime app allows users to watch their favorite anime shows for free, with a user-friendly interface that is responsive to all mobile devices. With the built-in search engine, users can easily filter anime shows based on their preferences, and with filter button categories, users can quickly find the specific anime they are looking for.
+My Anime App is a mobile application developed using Flutter, My Anime app allows users to watch their favorite anime shows for free, with a user-friendly interface that is responsive to all mobile devices. With the built-in search engine, users can easily filter anime shows based on their preferences, and with filter button categories, users can quickly find the specific anime they are looking for.
 
 My Anime App contains 12 pages, each designed to enhance the user experience and provide helpful information. Here are the roles of each page:
 
