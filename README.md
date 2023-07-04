@@ -3,7 +3,6 @@
   
 ![myanimeapp](https://github.com/TheMostafax/My_Anime_App/assets/81190585/22c52210-dfb1-4eff-b07c-d07d431111cb)
 
-
 </p>
 
 <h1 align="center">Project Description </h1>
