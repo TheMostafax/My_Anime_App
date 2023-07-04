@@ -39,7 +39,7 @@ Overall, My Anime App provides a comprehensive and user-friendly experience for 
 
 <hr>
 
-<h4 align="center">🚀 Folder Structure</h4>
+<h1 align="center">🚀 Folder Structure</h1>
 
 ```
 
