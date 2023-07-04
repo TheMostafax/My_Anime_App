@@ -12,27 +12,27 @@ My Anime App is a mobile application developed using Flutter! My Anime app allow
 
 My Anime App contains 12 pages, each designed to enhance the user experience and provide helpful information. Here are the roles of each page:
 
-Onboarding screen: This page welcomes users to the app and provides a brief overview of its features.
+1.  Onboarding screen: This page welcomes users to the app and provides a brief overview of its features.
 
-Launch screen: This page displays the app logo and serves as a loading screen while the app is starting up.
+2.  Launch screen: This page displays the app logo and serves as a loading screen while the app is starting up.
 
-Login/Sign up: These pages allow users to create an account or log in to their existing account, so they can save their favorite anime shows and resume watching where they left off.
+3.  Login/Sign up: These pages allow users to create an account or log in to their existing account, so they can save their favorite anime shows and resume watching where they left off.
 
-Home page: This page is the main hub of the app, where users can see their recommended anime shows, popular anime shows, and newly added anime shows.
+4.  Home page: This page is the main hub of the app, where users can see their recommended anime shows, popular anime shows, and newly added anime shows.
 
-All anime pages: These pages display all the anime shows available on the app, sorted by categories such as genre, release year, and popularity.
+5.  All anime pages: These pages display all the anime shows available on the app, sorted by categories such as genre, release year, and popularity.
 
-Anime details page: This page provides detailed information about a specific anime show, including its categories, rating, and description.
+6.  Anime details page: This page provides detailed information about a specific anime show, including its categories, rating, and description.
 
-Your favorite animes page: This page displays all the anime shows that the user has saved as favorites, allowing them to quickly access their preferred shows.
+7.  Your favorite animes page: This page displays all the anime shows that the user has saved as favorites, allowing them to quickly access their preferred shows.
 
-Categories page: This page displays all the categories available for filtering anime shows, allowing users to quickly find the specific anime they are looking for.
+8.  Categories page: This page displays all the categories available for filtering anime shows, allowing users to quickly find the specific anime they are looking for.
 
-Settings page: This page allows users to customize their app settings, such as language preferences and push notifications.
+9.  Settings page: This page allows users to customize their app settings, such as language preferences and push notifications.
 
-Help page: This page provides users with helpful information on how to use the app, troubleshoot common issues, and contact customer support.
+10.  Help page: This page provides users with helpful information on how to use the app, troubleshoot common issues, and contact customer support.
 
-About the app page: This page provides information about the app's developer, description, and contacts.
+11.  About the app page: This page provides information about the app's developer, description, and contacts.
 
 Overall, My Anime App provides a comprehensive and user-friendly experience for anime fans, with a wide selection of shows to choose from and helpful features to enhance their viewing experience.
 
