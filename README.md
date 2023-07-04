@@ -8,27 +8,34 @@
 
 <h1 align="center">Project Description </h1>
 
-My fashion app is a responsive mobile application developed using Flutter framework which is designed to provide a seamless user experience for customers who shop for fashion items.  The app is optimized for mobile devices and offers a clean and visually appealing interface. Here are the different pages of your app and their respective roles:
+My Anime App is a mobile application developed using Flutter! My Anime app allows users to watch their favorite anime shows for free, with a user-friendly interface that is responsive to all mobile devices. With the built-in search engine, users can easily filter anime shows based on their preferences, and with filter button categories, users can quickly find the specific anime they are looking for.
 
-1.  First Screen: This is the initial screen that users will see when they launch the app.
+My Anime App contains 12 pages, each designed to enhance the user experience and provide helpful information. Here are the roles of each page:
 
-2.  Home Page: This is the main page of your app where users can browse through your products. It may include different categories of clothing, new arrivals, or featured items.
+Onboarding screen: This page welcomes users to the app and provides a brief overview of its features.
 
-3.  Login page: This page allows users to log in to their accounts or create a new one. Users may also have the option to log in with google or apple.
+Launch screen: This page displays the app logo and serves as a loading screen while the app is starting up.
 
-4.  Sign Up page: This page allows new users to create an account on your app. They will need to provide their personal information, such as email address and password.
+Login/Sign up: These pages allow users to create an account or log in to their existing account, so they can save their favorite anime shows and resume watching where they left off.
 
-5.  All products page: This page displays all of the available products in a list view.
+Home page: This page is the main hub of the app, where users can see their recommended anime shows, popular anime shows, and newly added anime shows.
 
-6.  Product details page: This page displays detailed information about a specific product, including the product image, a product description, available sizes, available colors, and a "Buy Now" button.
+All anime pages: These pages display all the anime shows available on the app, sorted by categories such as genre, release year, and popularity.
 
-7.  About Us page: This page provides information about our mission and a description of the app. It also includes our contact information, such as email address and phone number.
+Anime details page: This page provides detailed information about a specific anime show, including its categories, rating, and description.
 
-8.  Cart Page: This page displays the items that users have added to their cart. Users can review their order, change the quantity of items, or proceed to checkout.
+Your favorite animes page: This page displays all the anime shows that the user has saved as favorites, allowing them to quickly access their preferred shows.
 
-The app also includes a search engine that allows users to search for specific products based on their preferences.
+Categories page: This page displays all the categories available for filtering anime shows, allowing users to quickly find the specific anime they are looking for.
 
-Overall, My fashion app is designed to provide a user-friendly and engaging shopping experience for customers.
+Settings page: This page allows users to customize their app settings, such as language preferences and push notifications.
+
+Help page: This page provides users with helpful information on how to use the app, troubleshoot common issues, and contact customer support.
+
+About the app page: This page provides information about the app's developer, description, and contacts.
+
+Overall, My Anime App provides a comprehensive and user-friendly experience for anime fans, with a wide selection of shows to choose from and helpful features to enhance their viewing experience.
+
 
 <hr>
 
