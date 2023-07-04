@@ -43,7 +43,7 @@ Overall, My Anime App provides a comprehensive and user-friendly experience for 
 
 ```
 
-└── my_fashion_app/
+└── my_anime_app/
     ├── lib/
     |   ├── models/
     |       └── auth.dart
@@ -51,18 +51,22 @@ Overall, My Anime App provides a comprehensive and user-friendly experience for 
     |       └── signup.dart
     │   ├── models/
     |       └── product.dart
-    |       └── cartt.dart
+    |       └── categorym.dart
     |   ├── pages/
-    |       └── product_detail_screen.dart
-    |   ├── screens/
     |       └── about.dart
-    |       └── cart_item.dart
-    |       └── cart.dart
-    |       └── product_list_screen.dart
-    |       └── products.dart
+    |       └── category.dart
+    |       └── categoryanime.dart
+    |       └── favourite.dart
+    |       └── help.dart
+    |       └── home.dart
+    |       └── seeall.dart
+    |       └── setting.dart
+    |   ├── screens/
+    |       └── anime_screen.dart
+    |       └── onboard.dart
     |   ├── services/
-    |       └── cart_provider.dart
-    |       └── product_service.dart
+    |       └── anime_service.dart
+    |       └── category_service.dart
     └── main.dart
 
 ```
