@@ -193,8 +193,8 @@ https://github.com/TheMostafax/My_Anime_App/assets/81190585/603c4447-c9cd-4f77-b
 
 In the command terminal, run the following commands:
 
-    $ git clone https://https://github.com/TheMostafax/My_Fashion_App.git my_fashion_app
-    $ cd my_fashion_app/
+    $ git clone https://github.com/TheMostafax/My_Anime_App.git my_anime_app
+    $ cd my_anime_app/
     $ flutter packages get
     $ flutter run
     
