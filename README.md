@@ -35,7 +35,6 @@ My Anime App contains 12 pages, each designed to enhance the user experience and
 
 Overall, My Anime App provides a comprehensive and user-friendly experience for anime fans, with a wide selection of shows to choose from and helpful features to enhance their viewing experience.
 
-
 <hr>
 
 <h1 align="center">🚀 Folder Structure</h1>
